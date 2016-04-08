@@ -7,10 +7,10 @@ management interface for ZeroTier One peer process
 --------------------------------------------------
 
 :Author: |author|
-:Date: 2016-03-04
+:Date: 2016-04-08
 :Copyright:
     Copyright © 2016 ZeroTier Inc.
-:Manual section: 1
+:Manual section: 8
 :Manual group: ZeroTier
 
 ..  |command| replace:: **zerotier-cli**

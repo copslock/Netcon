@@ -17,7 +17,7 @@ RST_SUFFIX = .txt
 manpage_sections = 1 2 3 4 5 6 7 8
 manpage_names += zerotier-one.8
 manpage_names += zerotier-idtool.1
-manpage_names += zerotier-cli.1
+manpage_names += zerotier-cli.8
 manpage_source_paths = $(addprefix ${DOC_DIR}/, \
 	$(addsuffix ${RST_SUFFIX},${manpage_names}))
 manpage_paths = $(addprefix ${DOC_DIR}/,${manpage_names})
